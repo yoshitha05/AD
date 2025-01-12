@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Keywords are presented in purple
-import
+# import
 
 letters = ['a','b','c']
 del letters[0]
@@ -44,3 +44,4 @@ print(dict)
 dict = {1: 'Geeks', 2: 'for', 3: 'Geeks'}
 print(dict)
 
+x = "Author - yosh"
